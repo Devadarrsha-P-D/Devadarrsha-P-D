@@ -25,7 +25,7 @@ const devadarrsha = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project                          | Technologies                  | Description                                           |
 | -------------------------------- | ----------------------------- | ----------------------------------------------------- |
@@ -51,7 +51,7 @@ const devadarrsha = {
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * 🧠 Deep Learning
 * 🤖 Neural Networks
