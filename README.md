@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Devadarrsha%20P%20D&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Data%20Science%20Enthusiast%20%7C%20CS%20Student%20%40%20VIT%20Chennai&descSize=18&descAlignY=65"/>
+
+# `Building Intelligent Solutions`
+
+</div>
 ## 🧑‍💻 About Me
 
 ```javascript
