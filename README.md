@@ -38,9 +38,11 @@ const devadarrsha = {
 
 ## 🎓 Education
 
-**B.Tech Computer Science**
-Vellore Institute of Technology, Chennai
-**2025 – 2029**
+| Degree                      | Institution                              | Year            | Score        |
+| --------------------------- | ---------------------------------------- | --------------- | ------------ |
+| **B.Tech Computer Science** | Vellore Institute of Technology, Chennai | **2025 – 2029** | **Currently Studying** |
+| **12th Grade**              | Alwin Memorial Public school             | **2024 - 2025** |    86%       |
+| **10th Grade**              | Alwin Memorial Public school             | **2022 - 2023** |    94%       |
 
 ---
 
