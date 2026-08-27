@@ -49,7 +49,7 @@ const devadarrsha = {
 * 🗄️ Advanced SQL
 * ⚙️ Backend Development
 
-## 💼 Work Experience
+## 💼 Experience
 
 > As a computer science student, my experience comes from hands-on project building, competitive events, and workshops.
 
