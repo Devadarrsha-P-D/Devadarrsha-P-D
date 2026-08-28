@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://iili.io/CmBzW5Q.png" width="100%" alt="Devadarrsha P D">
+<img
+  src="./banner.gif"
+  width="100%"
+  alt="Devadarrsha P D - AI/ML Developer"
+/>
 
 </div>
 ## 🧑‍💻 About Me
