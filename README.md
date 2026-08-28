@@ -1,10 +1,8 @@
 <div align="center">
 
-<img
-  src="./banner.gif"
-  width="100%"
-  alt="Devadarrsha P D - AI/ML Developer"
-/>
+<img src="./banner.svg" width="100%" alt="Devadarrsha P D">
+
+</div>
 
 </div>
 ## 🧑‍💻 About Me
