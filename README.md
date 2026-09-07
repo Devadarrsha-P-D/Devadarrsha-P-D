@@ -37,8 +37,8 @@ const devadarrsha = {
 
 ---
 
-## 🏆 Achievements
-* 💻 Participated in multiple coding and innovation hackathons
+##  Achievements
+* 🏆 Won 2nd place overall at Recursion 2.0, a 24-hour hackathon organized by Microsoft Innovation Club, VIT Chennai
 * 🤖 Built AI/ML and blockchain projects
 
 ---
