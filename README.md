@@ -31,8 +31,8 @@ const devadarrsha = {
 
 | Project                          | Technologies                  | Description                                           |
 | -------------------------------- | ----------------------------- | ----------------------------------------------------- |
-| 🌱 **Carbon Footprint Monitor**  | Python, ML, Linux, Blockchain | ML-based carbon footprint monitoring and optimization |
-| 🏏 **IPL Winning Prediction**    | Python, Machine Learning      | Predicts IPL match outcomes using historical data     |
+| 🌱 **Carbon Footprint Monitor** | Python, ML, Linux, Blockchain | ML-based carbon footprint monitoring and optimization |
+| 🏏 **IPLytics**                 | Python, Machine Learning      | Predicts IPL match outcomes using historical data     |
 | 🎙️ **YouTube Voice Automation** | Python, Speech Recognition    | Voice-controlled YouTube automation                   |
 
 ---
