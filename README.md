@@ -26,15 +26,20 @@ const devadarrsha = {
 ```
 
 ---
-<h2 align="left"> Featured Projects</h2>
 
-<p align="center">
-  <img
-    src="./projects.svg"
-    width="100%"
-    alt="Devadarrsha's Featured Projects"
-  />
-</p>
+##  Featured Projects
+
+| Project                          | Technologies                  | Description                                           |
+| -------------------------------- | ----------------------------- | ----------------------------------------------------- |
+|     **Carbon Footprint Monitor** | Python, ML , Blockchain       | ML-based carbon footprint monitoring and optimization |
+|     **IPLytics**                 | Python, Machine Learning      | Predicts IPL match outcomes using historical data     |
+|     **AeroGuard**                | Python, Machine Learning      | Real-Time Anomaly Detection, Remaining Useful Life (RUL) Prediction & 50 Fault Predictive Maintenance Recommender for Aircraft Engine|
+
+---
+
+##  Achievements
+* 🏆 Won 2nd place overall at Recursion 2.0, a 24-hour hackathon organized by Microsoft Innovation Club, VIT Chennai
+* 🤖 Built AI/ML and blockchain projects
 
 ---
 <h2 align="left">GitHub Stats</h2>
@@ -48,19 +53,6 @@ const devadarrsha = {
 </p>
 
 ---
----
-
-<h2 align="left">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Devadarrsha-P-D&bg_color=080D16&color=00E5FF&line=2563EB&point=8B5CF6&area=true&area_color=2563EB&hide_border=true&custom_title=Devadarrsha's%20Contribution%20Activity"
-    width="100%"
-    alt="Devadarrsha's GitHub Contribution Activity"
-  />
-</p>
-
----
 ##  Currently Learning
 
 * 🧠 Deep Learning
@@ -69,76 +61,6 @@ const devadarrsha = {
 * 🗄️ Advanced SQL
 * ⚙️ Backend Development
   
----
-
-<h2 align="left">⚡ The Build Log</h2>
-
-<p align="left">
-  <i>From learning fundamentals to building intelligent systems.</i>
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>01 — Foundations</h3>
-
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-16A34A?style=flat-square"/>
-
-- Python Programming
-- Data Science Fundamentals
-- Machine Learning Basics
-- First ML Project — IPLytics
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>02 — Deep Learning</h3>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00E5FF?style=flat-square"/>
-
-- Neural Networks
-- Deep Learning
-- LSTM Architectures
-- Aircraft Engine Digital Twin
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>03 — Intelligent Systems</h3>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=flat-square"/>
-
-- AI/ML Applications
-- Blockchain Integration
-- GreenLedger
-- System Design
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>04 — Next Target</h3>
-
-<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-F59E0B?style=flat-square"/>
-
-- Production-ready AI/ML
-- Advanced Model Development
-- Scalable Backend Systems
-- Build impactful software
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILDING-INTELLIGENT_SOLUTIONS-00E5FF?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
 ---
 
 ## 💼 Experience
@@ -160,3 +82,4 @@ const devadarrsha = {
 ---
 
 
+this is the existing ones dont change any just that build logand the contribution heat map to the best style and the project cards very impressive i need it and change the achivements to the one u gave in 7 th recomm
