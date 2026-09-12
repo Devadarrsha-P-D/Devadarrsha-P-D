@@ -28,11 +28,14 @@
         rx="14" fill="#111827"
         stroke="#30363D"/>
 
-  <image href="https://raw.githubusercontent.com/Devadarrsha-P-D/Devadarrsha-P-D/main/Screenshot%202026-09-12%20194826.png"
-         x="22" y="23"
-         width="105" height="105"
-         preserveAspectRatio="xMidYMid slice"
-         clip-path="inset(0 round 14px)"/>
+ <image
+  href="https://raw.githubusercontent.com/Devadarrsha-P-D/Devadarrsha-P-D/main/Screenshot%202026-09-12%20194826.png"
+  x="22"
+  y="23"
+  width="105"
+  height="105"
+  preserveAspectRatio="xMidYMid slice"
+ />
 
   <!-- Category -->
   <rect x="143" y="30"
@@ -87,11 +90,14 @@
         rx="14" fill="#111827"
         stroke="#30363D"/>
 
-  <image href="https://raw.githubusercontent.com/Devadarrsha-P-D/Devadarrsha-P-D/main/Screenshot%202026-09-12%20194430.png"
-         x="22" y="185"
-         width="105" height="105"
-         preserveAspectRatio="xMidYMid slice"
-         clip-path="inset(0 round 14px)"/>
+  <image
+  href="https://raw.githubusercontent.com/Devadarrsha-P-D/Devadarrsha-P-D/main/Screenshot%202026-09-12%20194430.png"
+  x="22"
+  y="23"
+  width="105"
+  height="105"
+  preserveAspectRatio="xMidYMid slice"
+/>
 
   <!-- Category -->
   <rect x="143" y="192"
@@ -146,11 +152,14 @@
         rx="14" fill="#111827"
         stroke="#30363D"/>
 
-  <image href="https://raw.githubusercontent.com/Devadarrsha-P-D/Devadarrsha-P-D/main/Screenshot%202026-09-12%20195817.png"
-         x="22" y="347"
-         width="105" height="105"
-         preserveAspectRatio="xMidYMid slice"
-         clip-path="inset(0 round 14px)"/>
+  <image
+  href="https://raw.githubusercontent.com/Devadarrsha-P-D/Devadarrsha-P-D/main/Screenshot%202026-09-12%20195817.png"
+  x="22"
+  y="185"
+  width="105"
+  height="105"
+  preserveAspectRatio="xMidYMid slice"
+/>
 
   <!-- Category -->
   <rect x="143" y="354"
