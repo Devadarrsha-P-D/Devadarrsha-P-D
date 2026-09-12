@@ -31,9 +31,9 @@ const devadarrsha = {
 
 | Project                          | Technologies                  | Description                                           |
 | -------------------------------- | ----------------------------- | ----------------------------------------------------- |
-| 🌱 **Carbon Footprint Monitor** | Python, ML, Linux, Blockchain | ML-based carbon footprint monitoring and optimization |
-| 🏏 **IPLytics**                 | Python, Machine Learning      | Predicts IPL match outcomes using historical data     |
-| 🎙️ **YouTube Voice Automation** | Python, Speech Recognition    | Voice-controlled YouTube automation                   |
+|     **Carbon Footprint Monitor** | Python, ML , Blockchain       | ML-based carbon footprint monitoring and optimization |
+|     **IPLytics**                 | Python, Machine Learning      | Predicts IPL match outcomes using historical data     |
+|     **AeroGuard**                | Python, Machine Learning      | Real-Time Anomaly Detection, Remaining Useful Life (RUL) Prediction & 50 Fault Predictive Maintenance Recommender for Aircraft Engine|
 
 ---
 
