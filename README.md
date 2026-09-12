@@ -27,52 +27,39 @@ const devadarrsha = {
 };
 ```
 --- 
-
 ##  Featured Projects
  
 <table>
 <tr>
 <td width="50%" valign="top">
-### 🌿 GreenLedger
-**AI Energy & Carbon Optimization Platform**
- 
-Windows telemetry → XGBoost power prediction → carbon calculation → optimization → Green Credits + Web3 badge marketplace (Sepolia testnet).
- 
-`Next.js` `FastAPI` `XGBoost` `Solidity` `Web3`
- 
+<h3>🌿 GreenLedger</h3>
+<p><strong>AI Energy & Carbon Optimization Platform</strong></p>
+<p>Windows telemetry → XGBoost power prediction → carbon calculation → optimization → Green Credits + Web3 badge marketplace (Sepolia testnet).</p>
+<p>
+<code>Next.js</code> <code>FastAPI</code> <code>XGBoost</code> <code>Solidity</code> <code>Web3</code>
+</p> 
 </td>
 <td width="50%" valign="top">
-### ✈️ AeroGuard
-**Predictive Maintenance for Aircraft Engines**
- 
-Real-time anomaly detection + Remaining Useful Life (RUL) prediction + fault-based maintenance recommendations using NASA C-MAPSS data.
- 
-`Python` `LSTM` `Random Forest` `SHAP`
- 
+<h3> ⚙️ AeroGuard</h3>
+<p><strong>Predictive Maintenance for Aircraft Engines</strong></p>
+<p>Real-time anomaly detection + Remaining Useful Life (RUL) prediction + fault-based maintenance recommendations using NASA C-MAPSS data.</p>
+<p>
+<code>Python</code> <code>LSTM</code> <code>Random Forest</code> <code>SHAP</code>
+</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-### 🎴 The Relic Vault
-**Decentralized NFT Game Card Marketplace**
- 
-Mint, list, and trade unique high-fantasy game cards as NFTs on a blockchain testnet, complete with IPFS storage and cinematic mint reveals.
- 
-`Solidity` `IPFS` `Web3` `Wallet Connect`
- 
-</td>
-<td width="50%" valign="top">
-### 🏏 IPLytics
-**IPL Match Outcome Predictor**
- 
-Predicts IPL match outcomes using historical match data and machine learning models.
- 
-`Python` `Machine Learning` `Data Analysis`
- 
+<h3>🛡️ The Relic Vault</h3>
+<p><strong>Decentralized NFT Game Card Marketplace</strong></p>
+<p>Mint, list, and trade unique high-fantasy game cards as NFTs on a blockchain testnet, complete with IPFS storage and cinematic mint reveals.</p>
+<p>
+<code>Solidity</code> <code>IPFS</code> <code>Web3</code> <code>Wallet Connect</code>
+</p>
 </td>
 </tr>
 </table>
----
+
 ---
 
 ##  Achievements
