@@ -42,6 +42,15 @@ const devadarrsha = {
 * 🤖 Built AI/ML and blockchain projects
 
 ---
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Devadarrsha-P-D&background=0D1117&border=2A2540&stroke=8B5CF6&ring=FF4FA3&fire=FF4FA3&currStreakNum=F9A8D4&sideNums=FF4FA3&currStreakLabel=C084FC&sideLabels=C084FC&dates=A78BFA&hide_border=true&border_radius=15"
+    alt="Devadarrsha's GitHub Streak Stats"
+    width="495"
+  />
+</p>
 
 ##  Currently Learning
 
