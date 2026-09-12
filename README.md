@@ -3,9 +3,11 @@
 <img src="./banner.svg" width="100%" alt="Devadarrsha P D">
 
 </div>
-
 </div>
-## 🧑‍💻 About Me
+
+---
+
+🧑‍💻 About Me
 
 ```javascript
 const devadarrsha = {
@@ -24,17 +26,53 @@ const devadarrsha = {
     goal: "Build intelligent and impactful software"
 };
 ```
-
----
+--- 
 
 ##  Featured Projects
-
-| Project                          | Technologies                  | Description                                           |
-| -------------------------------- | ----------------------------- | ----------------------------------------------------- |
-|     **Carbon Footprint Monitor** | Python, ML , Blockchain       | ML-based carbon footprint monitoring and optimization |
-|     **IPLytics**                 | Python, Machine Learning      | Predicts IPL match outcomes using historical data     |
-|     **AeroGuard**                | Python, Machine Learning      | Real-Time Anomaly Detection, Remaining Useful Life (RUL) Prediction & 50 Fault Predictive Maintenance Recommender for Aircraft Engine|
-
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+### 🌿 GreenLedger
+**AI Energy & Carbon Optimization Platform**
+ 
+Windows telemetry → XGBoost power prediction → carbon calculation → optimization → Green Credits + Web3 badge marketplace (Sepolia testnet).
+ 
+`Next.js` `FastAPI` `XGBoost` `Solidity` `Web3`
+ 
+</td>
+<td width="50%" valign="top">
+### ✈️ AeroGuard
+**Predictive Maintenance for Aircraft Engines**
+ 
+Real-time anomaly detection + Remaining Useful Life (RUL) prediction + fault-based maintenance recommendations using NASA C-MAPSS data.
+ 
+`Python` `LSTM` `Random Forest` `SHAP`
+ 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+### 🎴 The Relic Vault
+**Decentralized NFT Game Card Marketplace**
+ 
+Mint, list, and trade unique high-fantasy game cards as NFTs on a blockchain testnet, complete with IPFS storage and cinematic mint reveals.
+ 
+`Solidity` `IPFS` `Web3` `Wallet Connect`
+ 
+</td>
+<td width="50%" valign="top">
+### 🏏 IPLytics
+**IPL Match Outcome Predictor**
+ 
+Predicts IPL match outcomes using historical match data and machine learning models.
+ 
+`Python` `Machine Learning` `Data Analysis`
+ 
+</td>
+</tr>
+</table>
+---
 ---
 
 ##  Achievements
