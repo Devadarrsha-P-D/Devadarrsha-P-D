@@ -42,16 +42,14 @@ const devadarrsha = {
 * 🤖 Built AI/ML and blockchain projects
 
 ---
-<h2 align="left">📊 GitHub Stats</h2>
-
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Devadarrsha-P-D&background=0D1117&border=2A2540&stroke=8B5CF6&ring=FF4FA3&fire=FF4FA3&currStreakNum=F9A8D4&sideNums=FF4FA3&currStreakLabel=C084FC&sideLabels=C084FC&dates=A78BFA&hide_border=true&border_radius=15"
-    alt="Devadarrsha's GitHub Streak Stats"
+    src="https://streak-stats.demolab.com/?user=Devadarrsha-P-D&background=080D16&border=1E293B&stroke=2563EB&ring=00E5FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=00E5FF&currStreakLabel=38BDF8&sideLabels=60A5FA&dates=94A3B8&hide_border=true&border_radius=15"
+    alt="GitHub Streak Stats"
     width="495"
   />
 </p>
-
+---
 ##  Currently Learning
 
 * 🧠 Deep Learning
@@ -59,6 +57,7 @@ const devadarrsha = {
 * ⛓️ Blockchain
 * 🗄️ Advanced SQL
 * ⚙️ Backend Development
+---
 
 ## 💼 Experience
 
