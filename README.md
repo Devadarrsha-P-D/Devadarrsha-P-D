@@ -81,6 +81,3 @@ const devadarrsha = {
 🐙 **GitHub:** [GitHub](https://github.com/Devadarrsha-P-D)
 
 ---
-
-
-this is the existing ones dont change any just that build logand the contribution heat map to the best style and the project cards very impressive i need it and change the achivements to the one u gave in 7 th recomm
