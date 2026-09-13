@@ -70,7 +70,6 @@ const devadarrsha = {
 <h2 align="left">GitHub Stats</h2>
 
 <p align="center">
-    <p align="center">
   <img
     src="./profile/streak.svg"
     alt="GitHub Streak Stats"
