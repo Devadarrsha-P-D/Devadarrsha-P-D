@@ -62,9 +62,22 @@ const devadarrsha = {
 
 ---
 
-##  Achievements
-* 🏆 Won 2nd place overall at Recursion 2.0, a 24-hour hackathon organized by Microsoft Innovation Club, VIT Chennai
-* 🤖 Built AI/ML and blockchain projects
+<h2 align="left">🏅 Achievements</h2>
+
+<table>
+  <tr>
+    <th>🏆</th>
+    <th>Achievement</th>
+    <th>Details</th>
+  </tr>
+
+  <tr>
+    <td>🥈</td>
+    <td><b>Recursion 2.0 - 2nd Place</b></td>
+    <td>Won 2nd place overall at Recursion 2.0, a 24-hour hackathon organized by Microsoft Innovation Club, VIT Chennai, with <b>GreenLedger</b>, our blockchain-based sustainability project.</td>
+  </tr>
+
+</table>
 
 ---
 <h2 align="left">GitHub Stats</h2>
